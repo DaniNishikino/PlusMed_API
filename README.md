@@ -1,2 +1,2 @@
 # PlusMed_API
-A BackEnd Aplication for a Medical System.
+A BackEnd Application for a Medical System.
